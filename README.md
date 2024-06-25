@@ -9,11 +9,10 @@
   <img src="https://img.shields.io/badge/Edge-≥88.0-brightgreen.svg" alt="edge">
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Linux-blue.svg" alt="platform">
 </p>
-
 <div align="center">
-  <strong>👉 自动识别网盘分享链接并填写提取码 👈</strong><br>
-  <sub>适用于 Linux，macOS，Windows 平台</sub>
+  <strong>👉 自动识别选中文本里的链接和提取码 👈</strong><br>
 </div>
+
 
 
 >引用自[网盘智能识别助手](https://www.youxiaohou.com/tool/install-panai.html#%F0%9F%92%AF-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)的介绍：
@@ -33,6 +32,6 @@
 
 - [ ] 部分时候识别错误
 
-- [ ] 优化代码逻辑
+- [x] 优化代码逻辑
 
-- [ ] 优化文本
+- [x] 优化文本
